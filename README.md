@@ -106,14 +106,14 @@
               </td>
             </tr>
 
-            <!-- Use Case Spotlight -->
+            <!-- Wir suchen dich -->
             <tr>
-              <td style="padding:24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#FFFFF;">
+              <td style="padding:24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#FAFAFA;">
                 <h2 style="margin:0 0 12px 0; font-size:18px; color:#FFFFF;">Wir suchen dich</h2>
                 <table role="presentation" width="652" align="center" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
                   <tr>
                     <td width="300" align="left" valign="top" style="padding-right:16px;">
-                      <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/screenshot.spotlight.png?raw=true"
+                      <img src="https://github.com/talaria-static-assets/INNOVATIONS-Industries/blob/main/GettyImages-817986098.jpeg?raw=true"
                            alt="Use Case" width="300"
                            style="max-width:300px; height:auto; border-radius:6px; display:block; margin:0;" />
                     </td>
@@ -139,7 +139,7 @@
              
                         <tr>
               <td style="padding:40px 24px 40px 24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#FFFFFF;">
-                <h2 style="margin:0 0 12px 0; font-size:18px; color:#0057B8;">Sprich uns an</h2>
+                <h2 style="margin:0 0 12px 0; font-size:18px; color:#000000;">Sprich uns an</h2>
                 <table role="presentation" width="652" align="left" cellpadding="0" cellspacing="0" border="0">
                   <tr>
                     <td width="100" style="vertical-align:top; padding-right:12px; text-align:left;">
@@ -164,16 +164,16 @@
 
 
 
-            <!-- Contact -->
+            <!-- Fragen & Feedback -->
             <tr>
-              <td bgcolor="#F28C00" style="padding:24px; color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; text-align:center;">
-                <h2 style="margin:0 0 8px 0; font-size:20px;">Questions or Feedback?</h2>
-                <p style="margin:0 0 14px 0; font-size:14px; line-height:22px; color:#E6EEFF;">
-                  Reach out directly to the NetOptimizer Team – we’ll get back to you shortly.
+              <td bgcolor="#FAFAFA" style="padding:24px; color:#000000; font-family:Arial, Helvetica, sans-serif; text-align:center;">
+                <h2 style="margin:0 0 8px 0; font-size:20px;">Fragen oder Feedback?</h2>
+                <p style="margin:0 0 14px 0; font-size:14px; line-height:22px; color:#000000;">
+                  Kontaktiere uns auf direktem Weg,- wir melden uns schnellst möglich bei dir.
                 </p>
-                <a href="mailto:gerrit.schoenicke@telefonica.com;roman.leipe.external@telefonica.com?subject=NetOptimizer%20Contact"
+                <a href="mailto:claas.crasselt@soprasteria.com;dennis.bornmann@soprasteria.com?subject=Innovations%20Contact"
                    style="background:#00B5E2;color:#002060;display:inline-block;padding:10px 16px;font:700 14px/16px Arial,Helvetica,sans-serif;border-radius:6px;text-decoration:none;">
-                   Contact us
+                   Kontakt
                 </a>
               </td>
             </tr>
@@ -181,7 +181,7 @@
             <!-- Footer -->
             <tr>
               <td style="padding:24px; font-family:Arial, Helvetica, sans-serif; color:#6B7C93; font-size:11px; line-height:17px;">
-                <strong>NetOptimizer Team · Telefónica Germany</strong> · Transport Performance<br/>
+                <strong>INNOVATIONS · Industries</strong> · Sopra Steria Deutschland<br/>
               </td>
             </tr>
 
