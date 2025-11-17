@@ -100,27 +100,29 @@
     <table role="presentation" width="652" align="left" cellpadding="0" cellspacing="0" border="0" style="text-align:left; table-layout:fixed; mso-table-lspace:0pt; mso-table-rspace:0pt;">
       <tr>
 
-        <!-- 1: Netzwerk stärken -->
-        <td width="220" align="left" valign="top" style="padding:8px 8px 24px 0;">
-          <img src="https://github.com/talaria-static-assets/INNOVATIONS-Industries/blob/main/GettyImages-1485321074.jpeg?raw=true" 
-               alt="Feature 1" width="200" height="120" 
-               style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
-          <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; color:#000000;">
-            <strong>Netzwerk stärken</strong><br>
-            Finde dich im Kreis ambitionierter Berater:innen wieder. Ob Effizienzsteigerung, neue Arbeitsweisen oder digitale Lösungen – hier gestaltest du aktiv mit und schaffst echten Mehrwert.
-          </p>
-        </td>
-
-        <!-- 2: Explorative Garage -->
+              <!-- 1: Explorative Garage -->
         <td width="216" align="left" valign="top" style="padding:8px 8px 24px 8px;">
           <img src="https://github.com/talaria-static-assets/INNOVATIONS-Industries/blob/main/GettyImages-1426496887.jpg?raw=true" 
                alt="Feature 2" width="200" height="120" 
                style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
           <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; color:#000000;">
-            <strong>Explorative Garage</strong><br>
-            Ideen einfach ausprobieren – ohne Barrieren, ohne Politik. Teste neue Ansätze, baue erste Prototypen und entdecke, welches Potenzial in deinen Konzepten steckt.
+            <strong>Ideen entwickeln</strong><br>
+            Teste neue Ansätze, baue erste Prototypen und entdecke, welches Potenzial in deinen Ideen und Konzepten steckt. Ob Effizienzsteigerung, neue Arbeitsweisen oder digitale Lösungen – hier gestaltest du aktiv mit und schaffst echten Mehrwert.
           </p>
         </td>
+        
+        <!-- 2: Netzwerk stärken -->
+        <td width="220" align="left" valign="top" style="padding:8px 8px 24px 0;">
+          <img src="https://github.com/talaria-static-assets/INNOVATIONS-Industries/blob/main/GettyImages-1485321074.jpeg?raw=true" 
+               alt="Feature 1" width="200" height="120" 
+               style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
+          <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; color:#000000;">
+            <strong>Netzwerk ausbauen</strong><br>
+            Werde Teil eines Netzwerks ambitionierter Berater:innen, das dich fachlich wie persönlich voranbringt. Profitiere von einem leistungsstarken, cross-funktionalen Umfeld, das Inspiration bietet, strategisches Denken schärft und dein Wachstum nachhaltig beschleunigt.
+          </p>
+        </td>
+
+  
 
         <!-- 3: Karrierepfade stärken -->
         <td width="216" align="left" valign="top" style="padding:8px 0 24px 8px;">
@@ -129,7 +131,7 @@
                style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
           <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; color:#000000;">
             <strong>Karrierepfade stärken</strong><br>
-            Übernimm Verantwortung für zukunftsrelevante Themen, positioniere dich als Thought Leader und entwickle Fähigkeiten, die weit über das Tagesgeschäft hinausgehen.
+            Übernimm Verantwortung für zukunftsrelevante Themen und gestalte aktiv die Richtung mit. Positioniere dich als Thought Leader, erweitere dein strategisches Profil und entwickle Fähigkeiten, die dich nachhaltig über das Tagesgeschäft hinaus wachsen lassen.
           </p>
         </td>
 
